@@ -4,6 +4,7 @@
 - 🔞 I want to work with experienced colleagues.
 - 🏫 Learn new frameworks.
 - ✍🏻 I want to write clean, readable code.
+- 🤖 Excited about AI technology and its future impact.
 
 ### 🔨 My tech stack:
 
