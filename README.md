@@ -53,8 +53,6 @@
 
 ## 🌱 Projects
 
-</br>
-
 ### Static Vue website "How to Learn"
 
 **Website:** https://chepash.github.io/how-to-learn</br>
