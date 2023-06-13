@@ -55,35 +55,35 @@
 
 </br>
 
-## Static Vue website "How to Learn"
+### Static Vue website "How to Learn"
 
 **Website:** https://chepash.github.io/how-to-learn</br>
 **Description:** In my very first web development experience. Added a touch of Vue.js to the project.</br>
 **Repository Link:** https://github.com/chepash/how-to-learn</br>
 <a href='https://postimg.cc/YL6PyCdL' target='_blank'><img src='https://i.postimg.cc/YL6PyCdL/how-to-learn-0.png' border='0' alt='how-to-learn-0'/></a>
 
-## Project: Mesto (Place)
+### Project: Mesto (Place)
 
 **Website:** https://chepa.nomoredomains.work/</br>
 **Description:** A project for adding photo cards with captions.</br>
 **Repository Link:** https://github.com/chepash/react-mesto-api-full-gha</br>
 <a href="https://postimg.cc/rRXbJrNL" target="_blank"><img src="https://i.postimg.cc/rRXbJrNL/react-0.png" alt="react-0"/></a> <a href="https://postimg.cc/DWgL5Jkb" target="_blank"><img src="https://i.postimg.cc/DWgL5Jkb/Mesto-react-1.png" alt="Mesto-react-1"/></a><br/><br/>
 
-## Portfolio Website - "Movies explorer"
+### Portfolio Website - "Movies explorer"
 
 **Website:** https://chepamovies.nomoredomains.monster</br>
 **Description:** You can search for movies and save them in your account.</br>
 **Repository Link:** https://github.com/chepash/movies-explorer-frontend</br>
 <a href="https://postimg.cc/vg6kfz9z" target="_blank"><img src="https://i.postimg.cc/vg6kfz9z/Movie-explorer-react-1.png" alt="Movie-explorer-react-1"/></a> <a href="https://postimg.cc/NynZKVyF" target="_blank"><img src="https://i.postimg.cc/NynZKVyF/Movie-explorer-react-2.png" alt="Movie-explorer-react-2"/></a> <a href="https://postimg.cc/06jL2xyh" target="_blank"><img src="https://i.postimg.cc/06jL2xyh/Movie-explorer-react-3.png" alt="Movie-explorer-react-3"/></a><br/><br/>
 
-## Adaptive Website - "Journey through Russia"
+### Adaptive Website - "Journey through Russia"
 
 **Website:** https://chepash.github.io/russian-travel</br>
 **Description:** It is the first attempt at implementing responsive web design.</br>
 **Repository Link:** https://github.com/chepash/russian-travel</br>
 <a href="https://postimg.cc/7ft2C81S" target="_blank"><img src="https://i.postimg.cc/7ft2C81S/travel-1.png" alt="travel-1"/></a> <a href="https://postimg.cc/yDJScQnt" target="_blank"><img src="https://i.postimg.cc/yDJScQnt/travel-2.png" alt="travel-2"/></a><br/><br/>
 
-## Adaptive Website - "Where Will I Go"
+### Adaptive Website - "Where Will I Go"
 
 **Website:** https://chepash.github.io/kuda-ya-poedu</br>
 **Description:** An single-page web design project created collaboratively in three days.</br>
