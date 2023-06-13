@@ -62,7 +62,7 @@
 
 ### Project: Mesto (Place)
 
-**Website:** https://chepa.nomoredomains.work/</br>
+**Website:** https://chepa.nomoredomains.work</br>
 **Description:** A project for adding photo cards with captions.</br>
 **Repository Link:** https://github.com/chepash/react-mesto-api-full-gha</br>
 <a href="https://postimg.cc/rRXbJrNL" target="_blank"><img src="https://i.postimg.cc/rRXbJrNL/react-0.png" alt="react-0"/></a> <a href="https://postimg.cc/DWgL5Jkb" target="_blank"><img src="https://i.postimg.cc/DWgL5Jkb/Mesto-react-1.png" alt="Mesto-react-1"/></a><br/><br/>
