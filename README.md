@@ -1,4 +1,4 @@
-## Hello everyone, my name is Pavel 👋<br>
+### Hello everyone, my name is Pavel 👋<br>
 
 - 🎯 I aspire to work on real-world projects.
 - 🔞 I want to work with experienced colleagues.
@@ -6,9 +6,12 @@
 - ✍🏻 I want to write clean, readable code.
 - 🤖 Excited about AI technology and its future impact.
 
-## 🔨 My tech stack:
+### 🔨 My tech stack:
 
 <p align="left">
+  <a href="https://skillicons.dev" title="vscode">
+    <img src="https://skillicons.dev/icons?i=vscode" />
+  </a>
   <a href="https://skillicons.dev" title="GIT">
     <img src="https://skillicons.dev/icons?i=git"/>
   </a>
@@ -39,9 +42,6 @@
   <a href="https://skillicons.dev" title="Sass">
     <img src="https://skillicons.dev/icons?i=sass" />
   </a>
-  <a href="https://skillicons.dev" title="vscode">
-    <img src="https://skillicons.dev/icons?i=vscode" />
-  </a>
 </p></br>
 
 ### 📈🐌 My humble statistics:
@@ -51,7 +51,7 @@
 </br>
 </br>
 
-## 🌱 Projects
+### 🌱 Projects:
 
 ### Static Vue website "How to Learn"
 
