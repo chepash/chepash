@@ -46,7 +46,7 @@
 
 ### 📈🐌 My humble statistics:
 
-#### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chepash&layout=compact)
+#### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chepash&theme=tokyonight&layout=compact)
 
 </br>
 </br>
