@@ -24,11 +24,20 @@
   <a href="https://skillicons.dev" title="CSS">
     <img src="https://skillicons.dev/icons?i=css" />
   </a>
-  <a href="https://skillicons.dev" title="Express">
-    <img src="https://skillicons.dev/icons?i=express" />
+  <a href="https://skillicons.dev" title="Sass">
+    <img src="https://skillicons.dev/icons?i=sass" />
   </a>
   <a href="https://skillicons.dev" title="JavaScript">
     <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+  <a href="https://skillicons.dev" title="TypeScript">
+    <img src="https://skillicons.dev/icons?i=ts" />
+  </a>
+  <a href="https://skillicons.dev" title="React">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+  <a href="https://skillicons.dev" title="Redux">
+    <img src="https://skillicons.dev/icons?i=redux" />
   </a>
   <a href="https://skillicons.dev" title="NodeJS">
     <img src="https://skillicons.dev/icons?i=nodejs" />
@@ -36,12 +45,10 @@
   <a href="https://skillicons.dev" title="MongoDB">
     <img src="https://skillicons.dev/icons?i=mongodb" />
   </a>
-  <a href="https://skillicons.dev" title="React">
-    <img src="https://skillicons.dev/icons?i=react" />
+  <a href="https://skillicons.dev" title="Express">
+    <img src="https://skillicons.dev/icons?i=express" />
   </a>
-  <a href="https://skillicons.dev" title="Sass">
-    <img src="https://skillicons.dev/icons?i=sass" />
-  </a>
+
 </p></br>
 
 ### 📈🐌 My humble statistics:
@@ -52,6 +59,12 @@
 </br>
 
 ### 🌱 Projects:
+
+### Poroject: Stellar Burgers
+
+**Website:** https://chepash.github.io/react-burger</br>
+**Description:** Stellar Burgers is an application for a fictional restaurant that allows you to explore the menu, build burgers, and place orders.</br>
+**Repository Link:** https://github.com/chepash/react-burger</br>
 
 ### Portfolio Website - "Movies explorer"
 
@@ -64,9 +77,3 @@
 **Website:** https://chepa.nomoredomains.work</br>
 **Description:** A project for adding photo cards with captions.</br>
 **Repository Link:** https://github.com/chepash/react-mesto-api-full-gha</br>
-
-### Adaptive Website - "Journey through Russia"
-
-**Website:** https://chepash.github.io/russian-travel</br>
-**Description:** It is the first attempt at implementing responsive web design.</br>
-**Repository Link:** https://github.com/chepash/russian-travel</br>
