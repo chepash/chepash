@@ -60,7 +60,7 @@
 
 ### 🌱 Projects:
 
-### Poroject: Stellar Burgers
+### Project: Stellar Burgers
 
 **Website:** https://chepash.github.io/react-burger</br>
 **Description:** Stellar Burgers is an application for a fictional restaurant that allows you to explore the menu, build burgers, and place orders.</br>
