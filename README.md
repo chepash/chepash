@@ -31,11 +31,16 @@
 
 **Website:** https://chepash.github.io/react-burger</br>
 **Description:** Stellar Burgers is an application for a fictional restaurant that allows you to explore the menu, build burgers, and place orders. Sadly, it's not adaptive</br>
-**Repository Link:** https://github.com/chepash/react-burger</br>
-</br>
+**Repository Link:** https://github.com/chepash/react-burger</br></br>
 
 ### Project: DECKS
 
 **Website:** coming soon or if you are [lucky](https://decks.ddns.net/)</br>
 **Description:** Colaborative project where user can make some decks(obviously) with flashcards</br>
-**Repository Link:** https://github.com/CarloDiPalma/decks</br>
+**Repository Link:** https://github.com/CarloDiPalma/decks</br></br>
+
+### VScode plugin: SCSS BEM Support
+
+**Website:** [visualstudio marketplace](https://marketplace.visualstudio.com/items?itemName=joloyonaha.scss-bem-support&ssr=false#overview)</br>
+**Description:** This extension adds TextMate scope to BEM element and modifier which can be useful in syntax highlighting. (My small steps toward better world)</br>
+**Repository Link:** https://github.com/joloyonaha/scss-bem-support</br>
