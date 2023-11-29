@@ -35,7 +35,7 @@
 
 ### Project: DECKS
 
-**Website:** coming soon or if you are [lucky](https://decks.ddns.net/)</br>
+**Website:** coming soon or if you are [lucky](https://theproject.ddns.net/)</br>
 **Description:** Colaborative project where user can make some decks(obviously) with flashcards</br>
 **Repository Link:** https://github.com/CarloDiPalma/decks</br></br>
 
