@@ -27,20 +27,20 @@
 
 ### 🌱 My currently favorite projects and projects that I participate in:
 
+### Project: FeatureLab 
+
+**Website:** http://featurelab.ru/</br>
+**Description:** FeatureLab company website, which enables user registration and promotes the projects the company is working on</br>
+**Repository Link:** https://github.com/LiyaVysotskaya/Feature-lab-front</br></br>
+
+### Project: DECKS
+
+**Website:** https://theproject.ddns.net/</br>
+**Description:** Colaborative project where user can make some decks(obviously) with flashcards</br>
+**Repository Link:** https://github.com/CarloDiPalma/decks</br></br>
+
 ### Project: Stellar Burgers
 
 **Website:** https://chepash.github.io/react-burger</br>
 **Description:** Stellar Burgers is an application for a fictional restaurant that allows you to explore the menu, build burgers, and place orders. Sadly, it's not adaptive</br>
 **Repository Link:** https://github.com/chepash/react-burger</br></br>
-
-### Project: DECKS
-
-**Website:** coming soon or if you are [lucky](https://theproject.ddns.net/)</br>
-**Description:** Colaborative project where user can make some decks(obviously) with flashcards</br>
-**Repository Link:** https://github.com/CarloDiPalma/decks</br></br>
-
-### VScode plugin: SCSS BEM Support
-
-**Website:** [visualstudio marketplace](https://marketplace.visualstudio.com/items?itemName=joloyonaha.scss-bem-support&ssr=false#overview)</br>
-**Description:** This extension adds TextMate scope to BEM element and modifier which can be useful in syntax highlighting. (My small steps toward better world)</br>
-**Repository Link:** https://github.com/joloyonaha/scss-bem-support</br>
